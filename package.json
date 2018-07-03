@@ -1,6 +1,6 @@
 {
   "name": "word-abuse",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "abuse word filter and replace algorithm using trie and DFA",
   "main": "index.js",
   "directories": {

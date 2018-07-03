@@ -22,7 +22,7 @@ const abuse = new Abuse({
 let words_to_filter = "王@蜜&桃和王$*尼&&玛一起参加暴走大事件";
 //abuse words are "王蜜桃", "王尼玛" and "大事件"
 
-let words_after_filter = abuse.findWordInStr(word, 0);
+let words_after_filter = abuse.findWordInStr(words_to_filter, 0);
 //"*@*&*和*$**&&*一起参加暴走***"
 
 ```

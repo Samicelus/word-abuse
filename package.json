@@ -1,7 +1,7 @@
 {
   "name": "word-abuse",
-  "version": "1.0.5",
-  "description": "abuse word filter and replace algorithm using trie and FDA",
+  "version": "1.0.6",
+  "description": "abuse word filter and replace algorithm using trie and DFA",
   "main": "index.js",
   "directories": {
     "lib": "lib",
@@ -17,7 +17,7 @@
   "keywords": [
     "word",
     "abuse",
-    "FDA"
+    "DFA"
   ],
   "author": "samicelus",
   "license": "ISC",
